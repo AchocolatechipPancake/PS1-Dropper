@@ -1,4 +1,4 @@
-# PS1 Loader
+# PS1 Loader via EXE
 Creates a ps1 file then executes via UAC bypass function
 
 ##Replace the string contents (Line 210)
