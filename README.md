@@ -1,4 +1,4 @@
-# Elevated PS1 Loader via EXE
+# Elevated PS1 execution via EXE
 Creates a ps1 file then executes via UAC bypass function
 
 ## Replace the string contents with your script (Line 210)
